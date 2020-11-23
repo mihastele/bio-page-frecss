@@ -72,12 +72,10 @@ a:hover {
 */
 #tmWelcome {
   position: relative;
-  display: flex;
   align-items: center;
 }
 
 .tm-brand-container-outer {
-  margin-top: -400px;
 }
 
 .tm-brand-container-inner {
