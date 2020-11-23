@@ -133,7 +133,7 @@ a:hover {
 
 .tm-welcome-right {
   color: white;
-  background-color: #986665;
+  background-color: #98cb00;
   padding: 80px 43px 70px;
   height: 100%;
   text-align: center;
@@ -341,4 +341,12 @@ p {
   .tm-brand-container {
     padding: 25px;
   }
+}
+
+
+.inline-avatar {
+  display: inline-block;
+  height: 128px;
+  margin-bottom: 16px;
+  border-radius: 50%;
 }
