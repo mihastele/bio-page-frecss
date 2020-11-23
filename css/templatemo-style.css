@@ -145,6 +145,15 @@ a:hover {
   text-align: center;
 }
 
+.custombtn{
+  background-color: #729800;
+}
+
+.custombtn:hover{
+  background-color: #c3ff10;
+  transform: scale(1.1);
+}
+
 /*
   Portfolio section
 */
