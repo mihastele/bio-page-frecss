@@ -75,7 +75,28 @@ a:hover {
   align-items: center;
 }
 
+/* goldren ration calc */
+h-10{
+  height:10.3% !important
+}
+
+h-gr{
+  height:38.2% !important
+}
+
+/*
+h-gr{
+  height:38.2% !important
+}
+*/
+
+/*
 .tm-brand-container-outer {
+  
+} */
+
+.resize{
+  height: 38.2vh;
 }
 
 .tm-brand-container-inner {
@@ -84,7 +105,9 @@ a:hover {
 }
 
 .tm-brand-container {
+  margin-top: 10.3vh;
   padding: 75px 110px;
+  height: 41.2vh;
 }
 
 .tm-brand-name {
@@ -96,7 +119,8 @@ a:hover {
 }
 
 .parallax-window {
-  min-height: 1100px;
+  min-height: 1000px;
+  /* min-height: 1100px;*/
   background: transparent;
 }
 
@@ -105,10 +129,9 @@ a:hover {
 }
 
 .tm-welcome-container {
+  margin-top: 10.3vh;
   min-height: 400px;
-  position: absolute;
-  bottom: 0;
-  left: 0;
+  /*position: absolute;*/
   width: 100%;
   display: flex;
   align-items: stretch;
