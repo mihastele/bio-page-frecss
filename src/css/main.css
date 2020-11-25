@@ -1,0 +1,44 @@
+
+
+/* CORE */ 
+.left {
+    float: left;
+}
+
+.ib {
+    display: inline-block;
+}
+
+.top-128 {
+    padding-top: 128px;
+}
+
+.size200px {
+    display: block;
+    height: 200px;
+    width: 200px;
+}
+
+.text-white {
+    color: white;
+}
+
+/* header */ 
+
+.headcontainer {
+    display: block;
+    width: 100vw;
+    min-height: 100vh;
+    background-image: url("../../vendors/img/mini-profile-bg-01.jpg");
+
+}
+
+.hcol{
+    height: 384px;
+    width: 38.5vw;
+    padding: calc((38.5vw - 384px)/2);
+    /*padding: 0;*/
+    margin: 0 23.5% 0 38%;
+    background-color: rgba(1, 1, 1, 0.5)
+}
+
